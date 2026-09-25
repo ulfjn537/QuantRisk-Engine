@@ -46,7 +46,7 @@ The platform is built on a strictly decoupled Object-Oriented structure, ensurin
 ## Empirical Validation: COVID-19 Stress Test
 
 The engine includes a rigorous Out-of-Sample validation against real black swan events. 
-During the COVID-19 market crash (Feb-Apr 2020), the system demonstrated that a technology-weighted portfolio with a strict theoretical limit of **$VaR_{99\%} = 22.75\%$** suffered a real **Maximum Drawdown of 29.72%**. This empirical failure confirms that Gaussian projections calibrated during stable periods cannot contain the magnitude of losses during financial panic.
+During the COVID-19 market crash (Feb-Apr 2020), the system demonstrated that a technology-weighted portfolio with a strict theoretical limit of **VaR (99%) = 22.75%** suffered a real **Maximum Drawdown of 29.72%**. This empirical failure confirms that Gaussian projections calibrated during stable periods cannot contain the magnitude of losses during financial panic.
 
 ---
 
